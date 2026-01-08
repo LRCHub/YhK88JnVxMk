@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "let go",
+  "base_artist": "m-flo loves YOSHIKA",
+  "createdAt": "2026-01-08T04:41:32.780996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Let Go",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/01_Let_Me_Let_Go_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Let Go (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Let_Go_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Never_Let_Go_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/04_Never_Let_Go_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Go",
+      "artist": "Frou Frou",
+      "has_synced": true,
+      "path": "select/05_Let_Go_Frou_Frou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Let Go (Thin White Duke remix)",
+      "artist": "Fischerspooner",
+      "has_synced": true,
+      "path": "select/06_Just_Let_Go_(Thin_White_Duke_remix)_Fischerspooner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let Go Of The Fear",
+      "artist": "Maps",
+      "has_synced": false,
+      "path": "select/07_Let_Go_Of_The_Fear_Maps.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "let gO Of my egO",
+      "artist": "Nnamdi Ogbonnaya",
+      "has_synced": false,
+      "path": "select/08_let_gO_Of_my_egO_Nnamdi_Ogbonnaya.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Go",
+      "artist": "Manafest",
+      "has_synced": false,
+      "path": "select/09_Let_Go_Manafest.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love, Try Not To Let Go",
+      "artist": "Julia Jacklin",
+      "has_synced": true,
+      "path": "select/10_Love,_Try_Not_To_Let_Go_Julia_Jacklin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Camel",
+      "has_synced": true,
+      "path": "select/11_Never_Let_Go_Camel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Go",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/12_Let_Go_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let Go",
+      "artist": "Tinashe",
+      "has_synced": false,
+      "path": "select/13_Let_Go_Tinashe.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Let Go",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/14_Don't_Let_Go_Wang_Chung.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let go",
+      "artist": "M-flo loves YOSHIKA",
+      "has_synced": false,
+      "path": "select/pl_01_Let_go_M-flo_loves_YOSHIKA.txt"
+    }
+  ]
+}
