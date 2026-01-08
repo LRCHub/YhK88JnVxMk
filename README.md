@@ -1,0 +1,87 @@
+# m-flo loves YOSHIKA – let go
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+このまま忘れられなくて
+閉じ込めてはいられなくて
+踏み込んじゃいけないと
+わかってても
+この気持ちどうしても
+gotta let you know
+あつく激しく
+動く時間の中で
+欲しいよ君の
+heart, boy...一瞬でも
+叶わない恋に
+おぼれてもこのまま
+夢から覚めたくない CANT LET GO
+ワガママでもいい
+揺るがない愛がここに欲しいよ
+come on now baby, come on...
+yeah, yeah, yeah....
+全ての始まりは
+'Hey how you doin' ?
+yeah, yeah, yeah...
+二人目と目が合い
+幕開けたストーリー
+yeah, yeah, yeah...
+そして、出会いと
+別れがセットかのように
+yeah, yeah, yeah...
+時は止まり、
+そばにいなくても
+I'm airight なんて強がり
+でも隣にいないと心痛み
+Just wanderin'
+if you feel the same 同じ
+気持ちなのか
+確かめたくてマジ
+空回りしてばかり
+ain't nobody でも
+怖がらずに
+手綱(たづな)ゆるめてこう
+自由つかむため
+let go...I'm tell'n you
+エゴは心のテロ...
+甘く静かに時は流れてくのに
+体が It's breaking apart boy
+どうして
+壊れそうな位不安になるだけ
+Oh why 独り占めしたくなるの
+何も言わずに
+ただ君の愛がここに欲しいよ
+Love train...に
+駆け込み乗車したけど
+待ってはくれない理想から
+straight no chase
+猛speedで現実まで
+run、run、run
+止まる事無い時計の針
+一度だけ使える
+マジック、運命の鍵
+loveで逆転、あざ笑うlogic
+急がないと
+Mr. Heartbreak
+might stay
+巻き戻す
+色あせた記憶再生
+Tell me how to be free
+Oh baby,oh baby
+Will my heart be free
+So tell me一瞬でも
+叶わない恋におぼれても
+このまま
+夢から覚めたくない
+CANT LET GO
+ワガママでもいい
+揺るがない
+愛がここに欲しいよ
+壊れそうな位
+不安になるだけ
+Oh why
+独り占めしたくなるの
+何も言わずに
+ただ君の愛が
+ここに欲しいよ
+```
